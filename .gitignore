@@ -1,4 +1,4 @@
-core/vendor
-.vscode
-test.js
-test.css
+# core/vendor
+# .vscode
+# test.js
+# test.css
